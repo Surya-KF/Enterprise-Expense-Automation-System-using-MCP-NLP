@@ -1,0 +1,23 @@
+{
+  "mcpServers": {
+    "personal-expense-tracker": {
+      "command": "C:\\Users\\VH0000812\\Desktop\\MCP\\.venv\\Scripts\\python.exe",
+      "args": [
+        "C:\\Users\\VH0000812\\Desktop\\MCP\\mcp_server_claude.py"
+      ],
+      "env": {
+        "GEMINI_API_KEY": "AIzaSyDLgIQluo6YCrusHEphlftop6IDi4AB738"
+      }
+    },
+    "company-expense-tracker": {
+      "command": "C:\\Users\\VH0000812\\Desktop\\Expense Tracker\\.venv\\Scripts\\python.exe",
+      "args": [
+        "C:\\Users\\VH0000812\\Desktop\\Expense Tracker\\main.py"
+      ],
+      "env": {
+        "GEMINI_API_KEY": "AIzaSyDGXa_1ITaNXSbYCi6aqlSlcQPpNTy70HY",
+        "PYTHONUNBUFFERED": "1"
+      }
+    }
+  }
+}

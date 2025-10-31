@@ -1,0 +1,24 @@
+{
+  "departments": [
+    {
+      "name": "Admin",
+      "description": "Administrative operations and general management",
+      "common_roles": ["Office Manager", "Administrative Assistant", "Receptionist", "Facilities Manager"]
+    },
+    {
+      "name": "HR",
+      "description": "Human Resources - recruitment, training, and employee relations",
+      "common_roles": ["HR Manager", "Recruiter", "HR Coordinator", "Training Specialist"]
+    },
+    {
+      "name": "Tech",
+      "description": "Technology and software development department",
+      "common_roles": ["Software Engineer", "DevOps Engineer", "QA Engineer", "Tech Lead", "CTO"]
+    },
+    {
+      "name": "BPO",
+      "description": "Business Process Outsourcing - customer support and operations",
+      "common_roles": ["Customer Service Representative", "Team Leader", "Quality Analyst", "BPO Manager"]
+    }
+  ]
+}
