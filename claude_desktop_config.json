@@ -6,7 +6,7 @@
         "C:\\Users\\VH0000812\\Desktop\\MCP\\mcp_server_claude.py"
       ],
       "env": {
-        "GEMINI_API_KEY": "AIzaSyDLgIQluo6YCrusHEphlftop6IDi4AB738"
+        "GEMINI_API_KEY": "your gemini api key "
       }
     },
     "company-expense-tracker": {
