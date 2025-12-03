@@ -17,6 +17,12 @@ A professional Model Context Protocol (MCP) server for tracking company expenses
 - **Duplicate Detection** and automatic cleanup
 - **Safe Delete Operations** with cascade support
 
+## 🏗️ System Architecture
+
+![System Design](docs/system%20design.png)
+
+*The architecture shows the complete flow from Claude Desktop through the MCP Server to the SQLite database, with AI-powered analysis via Google Gemini.*
+
 ## 📊 Database Schema
 
 ```
